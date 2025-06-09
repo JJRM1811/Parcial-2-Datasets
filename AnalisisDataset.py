@@ -2,7 +2,7 @@ import pandas as pd
 from scipy import stats
 
 # URL del dataset en GitHub
-url = "https://raw.githubusercontent.com/joshuagonzalezcampos/Dataset-Parcial2/refs/heads/main/dataset_procesos_memoria.csv"
+url = "https://raw.githubusercontent.com/JJRM1811/Parcial-2-Datasets/refs/heads/main/dataset_procesos_memoria.csv"
 
 # Leer el CSV desde GitHub
 df = pd.read_csv(url)
